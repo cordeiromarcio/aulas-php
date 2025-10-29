@@ -8,17 +8,23 @@
     <style>
         body {
             display: block;
+            background-color: lightgrey;
             height: 100vh;
-            margin: 0;
+            margin-left: 20px;
             font-family: sans-serif;
         }
 
         h1 {
+            background-color: white;
+            padding: 10px;
+            color: blue;
             text-align: center;
         }
 
         li {
-            margin-left: 50px;
+            background-color: white;
+            margin: 0 20%;
+            padding: 5px;
         }
     </style>
 </head>
